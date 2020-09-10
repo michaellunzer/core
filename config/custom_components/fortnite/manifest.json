@@ -1,0 +1,16 @@
+{
+  "domain": "fortnite",
+  "name": "fortnite_api",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/fortnite",
+  "requirements": [
+    "fortnite-python==0.3.5"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@michaellunzer"
+  ]
+}
