@@ -42,7 +42,6 @@ class FortniteData:
         self.attr["win_ratio"] = self.stats.win_ratio
         # self.attr["trn_rating"] = self.stats.trn_rating
         # self.attr["from_json"] = self.stats.from_json
-
         # self.attr["winratio"] = self.stats.winratio
 
     def print_stats(self):
